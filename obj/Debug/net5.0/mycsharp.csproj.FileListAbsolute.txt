@@ -1,0 +1,16 @@
+C:\Users\TK\Desktop\mycsharp\bin\Debug\net5.0\mycsharp.exe
+C:\Users\TK\Desktop\mycsharp\bin\Debug\net5.0\mycsharp.deps.json
+C:\Users\TK\Desktop\mycsharp\bin\Debug\net5.0\mycsharp.runtimeconfig.json
+C:\Users\TK\Desktop\mycsharp\bin\Debug\net5.0\mycsharp.runtimeconfig.dev.json
+C:\Users\TK\Desktop\mycsharp\bin\Debug\net5.0\mycsharp.dll
+C:\Users\TK\Desktop\mycsharp\bin\Debug\net5.0\mycsharp.pdb
+C:\Users\TK\Desktop\mycsharp\obj\Debug\net5.0\mycsharp.csproj.AssemblyReference.cache
+C:\Users\TK\Desktop\mycsharp\obj\Debug\net5.0\mycsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TK\Desktop\mycsharp\obj\Debug\net5.0\mycsharp.AssemblyInfoInputs.cache
+C:\Users\TK\Desktop\mycsharp\obj\Debug\net5.0\mycsharp.AssemblyInfo.cs
+C:\Users\TK\Desktop\mycsharp\obj\Debug\net5.0\mycsharp.csproj.CoreCompileInputs.cache
+C:\Users\TK\Desktop\mycsharp\obj\Debug\net5.0\mycsharp.dll
+C:\Users\TK\Desktop\mycsharp\obj\Debug\net5.0\ref\mycsharp.dll
+C:\Users\TK\Desktop\mycsharp\obj\Debug\net5.0\mycsharp.pdb
+C:\Users\TK\Desktop\mycsharp\obj\Debug\net5.0\mycsharp.genruntimeconfig.cache
+C:\Users\TK\Desktop\mycsharp\obj\Debug\net5.0\refint\mycsharp.dll
